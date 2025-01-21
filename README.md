@@ -15,8 +15,11 @@ Professional Highlights 🌟
 
 Tech Toolbox 🛠️
 Languages: Python, SQL, JavaScript, C++, C#, RStudio
+
 Frameworks & Libraries: 
+
 Tools: 
+
 Specialties: 
 
 Certifications 📜
