@@ -1,4 +1,4 @@
-## Annelise-Hanson
+# Annelise-Hanson
 
 👋 Hello, I'm Annelise!
 
@@ -14,10 +14,10 @@
 
 👨‍💻 GitHub: ahanson-3
 
-# About Me 🌐
+## About Me 🌐
 Hello! My name is Annelise and I’m a senior Marketing major with Social Entrepreneurship and Computing and Digital Technologies minors student at the University of Notre Dame. I love a good challenge and new experiences which is why I'm most looking forward to being a Residential Assistant in Farley Hall and working as a Research Assistant.
 
-# Professional Highlights 🌟
+## Professional Highlights 🌟
 
 External Director | Strike Magazine
 
@@ -85,15 +85,15 @@ Office Assistant | Residential Life, University of Notre Dame
 Aug 2021 – Mar 2023 (1 yr 8 mos) | Notre Dame, IN
 - Organized inventory and created marketing materials for student events.
 
-# Skills: 
+## Skills: 
 Adobe Creative Suite · Telecommunications · Canva · Microsoft Suite · Google Suite
 
-# Tech Toolbox 🛠️
+## Tech Toolbox 🛠️
 
-# Languages: 
+## Languages: 
 Python, SQL, JavaScript, C++, C#, RStudio
 
-# Tools: 
+## Tools: 
 SSPS
 
 
