@@ -1,8 +1,8 @@
-# Annelise-Hanson
+# Annelise Hanson
 
 👋 Hello, I'm Annelise!
 
-🚀 Incoming Consultant
+🚀 Incoming McKinsey Consultant
 
 🎓 Current University of Notre Dame Student: Marketing, Computing, and Social Entrepreneurship
 
@@ -12,10 +12,14 @@
 
 🔗 LinkedIn: (https://www.linkedin.com/in/annelise-hanson/)
 
+Portfolio Website: (https://ahanson378.wixsite.com/portfolio---annelise)
+
 👨‍💻 GitHub: ahanson-3
 
+🤔 Interests: Reading, Music - I play guitar and piano, Crafts - learning to crochet but I love to try anything and especially love scrapbooking, Intramural Sports - Flag Football, Basketball, Bowling, Pickleball, Soccer, Ultimate Frisbee and anything I can find a buddy to try with me!, and finally I am going to run a half marathon this year - Notre Dame Holy Half - so I am training right now
+
 ## About Me 🌐
-Hello! My name is Annelise and I’m a senior Marketing major with Social Entrepreneurship and Computing and Digital Technologies minors student at the University of Notre Dame. I love a good challenge and new experiences which is why I'm most looking forward to being a Residential Assistant in Farley Hall and working as a Research Assistant.
+Hello! My name is Annelise and I’m a senior Marketing major with Social Entrepreneurship and Computing and Digital Technologies minors student at the University of Notre Dame. I love a good challenge and new experiences which is why I love being a Residential Assistant in Farley Hall and working as a Research Assistant this year.
 
 ## Professional Highlights 🌟
 
@@ -87,8 +91,6 @@ Aug 2021 – Mar 2023 (1 yr 8 mos) | Notre Dame, IN
 
 ## Skills: 
 Adobe Creative Suite · Telecommunications · Canva · Microsoft Suite · Google Suite
-
-## Tech Toolbox 🛠️
 
 ## Languages: 
 Python, SQL, JavaScript, C++, C#, RStudio
