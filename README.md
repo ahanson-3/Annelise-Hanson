@@ -1,7 +1,7 @@
 # Annelise Hanson
 
 ![Profile Image of Me]
-(Headshots_Poets&Quants.png)
+(assets/images/Headshots_Poets&Quants.png)
 
 👋 Hello, I'm Annelise!
 
