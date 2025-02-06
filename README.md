@@ -1,7 +1,7 @@
 # Annelise Hanson
 
 ![Profile Image of Me]
-(https://www.google.com/imgres?q=annelise%20hanson%20linkedin&imgurl=https%3A%2F%2Fmedia.licdn.com%2Fdms%2Fimage%2Fv2%2FD5603AQGBvj5FRySIaA%2Fprofile-displayphoto-shrink_200_200%2FB56ZSkahDpHsAY-%2F0%2F1737925202926%3Fe%3D2147483647%26v%3Dbeta%26t%3Doey20NMfpBuhqoy4LIr2-QYOYKNkw3KCORt28Cf-9_Y&imgrefurl=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fannelise-hanson&docid=c4aZxy9KVSCRKM&tbnid=ZhjyCcsCuIHmkM&vet=12ahUKEwiC44rK1a-LAxXGj4kEHYidILgQM3oECGUQAA..i&w=200&h=200&hcb=2&ved=2ahUKEwiC44rK1a-LAxXGj4kEHYidILgQM3oECGUQAA)
+()
 
 👋 Hello, I'm Annelise!
 
