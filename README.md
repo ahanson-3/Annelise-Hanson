@@ -1,6 +1,6 @@
 # Annelise Hanson
 
-![alt text]([http://url/to/img.png](https://github.com/ahanson-3/ahanson-3/blob/0ef68f0cc1d11f2239f0bccf0a9b5eb35abcab7e/Headshots_Poets%26Quants.png))
+![alt text](http://url/to/img.png](https://github.com/ahanson-3/ahanson-3/blob/0ef68f0cc1d11f2239f0bccf0a9b5eb35abcab7e/Headshots_Poets%26Quants.png)
 
 👋 Hello, I'm Annelise!
 
